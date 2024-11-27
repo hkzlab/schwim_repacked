@@ -10,9 +10,9 @@ While the [design that this project is based on](https://github.com/DosFox1/Shim
 
 ## Introduction
 
-This board is a "replacement" of the (S)IWM for old Macintosh Computers, and is based on the work by [DosFox](https://github.com/DosFox1/Shim-IWM).
+This board is a SMD-based "replacement" of the (S)IWM for old Macintosh Computers, and is based on the work by [DosFox](https://github.com/DosFox1/Shim-IWM), of which it is just a repackaging in different format.
 
-It implements enough of the logic to pass the initial boot check and allow the computer to continue booting. Floppy drive will not be functional.
+It implements enough of the logic to pass the initial boot check and allow the computer to continue booting. Floppy drive will not be functional. It is designed to fit in the same space as the original IC.
 
 ![Rev. 0 Board](pics/render.png)
 
