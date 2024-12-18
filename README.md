@@ -26,7 +26,7 @@ The board was designed with [KiCad](https://kicad.org/) EDA.
 | ----------------- | --- | ------------------------------ | -------------------------------------------------------- |
 | C1, C2            |  2  | 100nF / 1206 / ceramic         |                                                          |
 | U1                |  1  | 74HCT244                       | TSSOP-20                                                 |
-| U2                |  1  | 74AHCT1G32                     | SOT-353                                                  |
+| U2                |  1  | 74AHCT1G32                     | SOT-353 SC-70                                            |
 | RN1, RN2          |  2  | 4x4.7K isolated resistor array | 4x0612 (1206 package)                                    |
 | pins              |  2  | 14pin machined strips          | Solder these as pins of the replaced IC on the underside |  
 
